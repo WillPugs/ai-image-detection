@@ -18,3 +18,11 @@ the CIFAKE dataset, which significantly outperforms classic ML
 methods and CNNs, achieving performance comparable to some
 state-of-the-art architectures, such as ResNet.
 
+| Model | Precision | Recall | F1-Score | Accuracy |
+| :---: | :---: | :---: | :---: | :---: |
+| SVM | 0.8020 | 0.8222 | 0.8120 | 0.8143 |
+| CNN | 0.8734 | 0.8574 | 0.8653 | 0.8640 |
+| ResNet | 0.9917 | 0.9066 | 0.9472 | 0.9495 |
+| VGGNet | 0.9657 | 0.9547 | 0.9602 | 0.9600 |
+| DenseNet | 0.9769 | 0.9779 | 0.9774 | 0.9774 |
+| **Our Model** | **0.9351** | **0.9471** | **0.9410** | **0.9407** |
